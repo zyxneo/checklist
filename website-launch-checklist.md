@@ -61,6 +61,7 @@
 
 
 * [ ] [Check that ARIA Landmark Roles and other accessibility measures have been taken properly](http://a11yproject.com/checklist.html)
+* [ ] [Schemas are added](https://github.com/schemaorg/schemaorg)
 * [ ] Set up Google Analytics project and add code
 * [ ] Set up [Google Webmaster Tools](https://www.google.com/webmasters/tools/home?hl=en)
 * [ ] Verify site in Webmaster Tools with DNS TXT record
@@ -159,7 +160,7 @@
   * [ ] Try it with a screen reader
   * [ ] ARIA Landmarks used
 
-* All users/groups are designated in ACL or otherwise given access
+* [ ] All users/groups are designated in ACL or otherwise given access
 * [ ] Social media share is working as expected
 
 * [ ] Each function is responsive
