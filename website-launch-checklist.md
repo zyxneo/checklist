@@ -180,6 +180,7 @@
 * [ ] Privacy policy is updated if necessary
 * [ ] Has own README if necessary
 * [ ] New Feature is communicated well with the users wia e-mail, teaser and documentation
+* [ ] Can not conflict with cached outdated user data like browser cache, cookies, or local storage (saved variables, values on images...)
 
 
 ### Before deploy to Alpha
