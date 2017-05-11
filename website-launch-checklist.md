@@ -18,6 +18,7 @@
 * [ ] License is added
 
 * [ ] CodeQuality
+  * [ ] .editorconfig
   * [ ] JSLint/JSHint
   * [ ] SCSS hint
   * [ ] Semantic HTML
